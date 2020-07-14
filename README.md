@@ -1,3 +1,5 @@
+*https://www.cyberforum.ru/cpp-cli/thread1563955.html // смотреть свои файлы*
+
 # VolgaEnergoPromVersionWithSQLiteDB
 ## Проект ВолгаЭнергоПром, стенд АНС-500 для проведения испытаний. Реализована на языке c++/cli на winAPI в "тупую" методом "научного тыка".
 Используемый прибор: L-card e14-140M.
