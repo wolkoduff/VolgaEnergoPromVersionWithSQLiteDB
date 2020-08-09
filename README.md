@@ -2,7 +2,7 @@
 
 # VolgaEnergoPromVersionWithSQLiteDB
 ## Проект ВолгаЭнергоПром, стенд АНС-500 для проведения испытаний. Реализована на языке c++/cli на winAPI в "тупую" методом "научного тыка".
-![ГК лого синий.png](ГК лого синий.png)
+![LogoCompany.png](LogoCompany.png)
 
 Используемый прибор: L-Card E14-140M (https://www.lcard.ru/products/external/e-140m)
 
